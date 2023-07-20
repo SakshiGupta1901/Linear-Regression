@@ -10,8 +10,13 @@ demo data science models such that the data of 1978 labour can be predicted or n
 Data Contains Age, Race, Educational detail and Labour earning for 1974, 1975. The problem we are solving is the prediction of the future labours earning. The earning can be dependent on many of the variables.
 
 We have data for following
+
 Age of the person.
+
 Race: Is he/she is black or not black.
+
 Education Details: How qualified the person is?
+
 Hispanic: Is that person is Hispanic or not?
+
 Married: Does marriage affect the earnings. And other information. 
